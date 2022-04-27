@@ -1,0 +1,16 @@
+C:\Users\Lion\Word-Unscrambler\bin\Debug\net6.0\Word-Unscrambler.exe
+C:\Users\Lion\Word-Unscrambler\bin\Debug\net6.0\Word-Unscrambler.deps.json
+C:\Users\Lion\Word-Unscrambler\bin\Debug\net6.0\Word-Unscrambler.runtimeconfig.json
+C:\Users\Lion\Word-Unscrambler\bin\Debug\net6.0\Word-Unscrambler.dll
+C:\Users\Lion\Word-Unscrambler\bin\Debug\net6.0\Word-Unscrambler.pdb
+C:\Users\Lion\Word-Unscrambler\obj\Debug\net6.0\Word-Unscrambler.csproj.AssemblyReference.cache
+C:\Users\Lion\Word-Unscrambler\obj\Debug\net6.0\Word-Unscrambler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lion\Word-Unscrambler\obj\Debug\net6.0\Word-Unscrambler.AssemblyInfoInputs.cache
+C:\Users\Lion\Word-Unscrambler\obj\Debug\net6.0\Word-Unscrambler.AssemblyInfo.cs
+C:\Users\Lion\Word-Unscrambler\obj\Debug\net6.0\Word-Unscrambler.csproj.CoreCompileInputs.cache
+C:\Users\Lion\Word-Unscrambler\obj\Debug\net6.0\Word-Unscrambler.dll
+C:\Users\Lion\Word-Unscrambler\obj\Debug\net6.0\refint\Word-Unscrambler.dll
+C:\Users\Lion\Word-Unscrambler\obj\Debug\net6.0\Word-Unscrambler.pdb
+C:\Users\Lion\Word-Unscrambler\obj\Debug\net6.0\Word-Unscrambler.genruntimeconfig.cache
+C:\Users\Lion\Word-Unscrambler\obj\Debug\net6.0\ref\Word-Unscrambler.dll
+C:\Users\Lion\Word-Unscrambler\bin\Debug\net6.0\Word-Unscrambler.dll.config
